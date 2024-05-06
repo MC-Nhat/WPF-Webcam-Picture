@@ -1,0 +1,138 @@
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.AssemblyReference.cache
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\App.g.cs
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.cache
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.lref
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.exe
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.deps.json
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.runtimeconfig.json
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.pdb
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Imaging.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Math.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.g.resources
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfoInputs.cache
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfo.cs
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CoreCompileInputs.cache
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CopyComplete
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\refint\WPF_Webcam.dll
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.pdb
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.genruntimeconfig.cache
+D:\Semester 7\PRN211\code\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\ref\WPF_Webcam.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.exe
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.deps.json
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.runtimeconfig.json
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.pdb
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Imaging.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Math.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.cache
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.lref
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.g.resources
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CopyComplete
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\refint\WPF_Webcam.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.pdb
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\ref\WPF_Webcam.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\CloudinaryDotNet.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\PRN221\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.exe
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.deps.json
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.runtimeconfig.json
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.pdb
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Imaging.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Math.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\CloudinaryDotNet.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.cache
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.lref
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.g.resources
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfo.cs
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CopyComplete
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\refint\WPF_Webcam.dll
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.pdb
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.genruntimeconfig.cache
+C:\Users\Admin\Downloads\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\ref\WPF_Webcam.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.exe
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.deps.json
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.runtimeconfig.json
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\WPF_Webcam.pdb
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Imaging.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Math.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\CloudinaryDotNet.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.AssemblyReference.cache
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\App.g.cs
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.cache
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam_MarkupCompile.lref
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.g.resources
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfoInputs.cache
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.AssemblyInfo.cs
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CoreCompileInputs.cache
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.csproj.CopyComplete
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\refint\WPF_Webcam.dll
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.pdb
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\WPF_Webcam.genruntimeconfig.cache
+D:\PRN-NET\PRN221-Ki7\WPF_Webcam_Picture\WPF_Webcam\WPF_Webcam\obj\Debug\net6.0-windows\ref\WPF_Webcam.dll
